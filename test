@@ -1,0 +1,8 @@
+```bash
+cd nyrr-volunteer-watcher
+git init
+git add .
+git commit -m "Initial commit"
+gh repo create nyrr-volunteer-watcher --private --source=. --push
+# or create the repo on github.com and push manually
+```
