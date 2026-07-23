@@ -1,0 +1,10 @@
+{
+  "name": "nyrr-volunteer-watcher",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Checks the NYRR volunteer opportunities page and messages you on Telegram when a spot opens up.",
+  "main": "check-volunteers.js",
+  "scripts": {
+    "check": "node check-volunteers.js"
+  }
+}
